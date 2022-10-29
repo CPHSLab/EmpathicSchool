@@ -1,5 +1,5 @@
 # EmpathicSchool
-The notebook contains the code sections for data pre-processing, feature extraction, modeling and event detection.
+The notebook contains the code sections for data pre-processing, feature extraction, modeling and stress detection.
 
 The repository contains a sample subject data folder, as well as the conda and pip environment files.
 
